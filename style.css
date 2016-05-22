@@ -3,6 +3,9 @@
 body
 {
 	background-image:url(http://1.bp.blogspot.com/-q21_uepfHE4/UZx02_Qp0FI/AAAAAAAABUg/tbv8vqfnya0/s1600/circuitBoard.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color:#000000;
 }
 
 a:link
@@ -25,30 +28,5 @@ a:hover
 
 p
 {
-	color:#ffffff;
-}
-
-.nav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #ffffff;
-}
-
-.nav li {
-    float: left;
-    margin: 2px;
-    background-color: #dddddd;
-}
-
-.nav li a {
-    display: block;
-    padding: 8px;
-    color: #000000;
-    text-decoration: none;
-}
-
-.nav li a:hover {
-    background-color: #aaaaaa;
+	color: orange;
 }
