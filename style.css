@@ -35,3 +35,31 @@ h2
 {
 	color: white;
 }
+
+.nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.nav li {
+	float: left;
+	border-right: 1px solid #bbb;
+	background-color: #dddddd;
+}
+
+.nav li:last-child {
+	border-right: none;
+}
+
+.nav li a {
+	display: block;
+	padding: 8px;
+	color: #000000;
+	text-decoration: none;
+}
+
+.nav li a:hover {
+	background-color: #aaaaaa;
+}
