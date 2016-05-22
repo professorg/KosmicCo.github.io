@@ -11,22 +11,22 @@ body
 a:link
 {
 	font-weight:normal;
-	color:#dddddd;
+	color:white;
 }
 
 a:visited
 {
 	font-weight:normal;
-	color: #009900;
+	color: orange;
 }
 
 a:hover
 {
 	font-weight:normal;
-	color: #00aa00;
+	color: yellow;
 }
 
 p
 {
-	color: orange;
+	color: white;
 }
