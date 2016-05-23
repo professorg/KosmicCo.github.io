@@ -4,7 +4,7 @@ body
 {
 	background-image:url(http://www.themanufacturer.com/wp-content/uploads/2014/06/Tech-image.jpg);
 	background-size: cover;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	color:#000000;
 }
 
